@@ -2,6 +2,7 @@ import "../styles/styles.css"
 import "../styles/blog.css"
 // import "../styles/style2.css"
 // import "../styles/vendor.css"
+
 // import "../styles/vendor2.css"
 
 
@@ -17,6 +18,26 @@ export default function App({Component,pageProps}) {
 
     return (
     <>
+    <head>
+    <meta charset="utf-8"/>
+    <title Meqne />
+   <meta name="description" content=""/>
+    <meta name="author" content=""/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" href="css/blog.css"/>
+
+    {/* <script src="js/modernizr.js"></script> */}
+    {/* <script defer src="js/fontawesome/all.min.js"></script> */}
+
+    {/* <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="mobileev.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="mobileev.png">
+    <link rel="manifest" href="site.webmanifest">  */}
+
+    </head>
     <header class="s-header">
         <div class="s-header__logo">
             <a href="/">
