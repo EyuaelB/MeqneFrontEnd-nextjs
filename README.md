@@ -1,2 +1,2 @@
 # MeqneFrontEnd
-Simple Static landing page For [Meqne](https://www.google.com "Meqne")
+Simple static landing page for [Meqne](https://www.Meqne.com "Meqne") built with Next.js.
