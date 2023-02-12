@@ -10,5 +10,4 @@
     "start": "next start",
     "lint": "next lint"
   }
-
 }

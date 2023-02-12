@@ -1,13 +1,16 @@
 
-import Image from 'next/image'
 import ar_img from '../assets/images/ar.svg'
 import mobiledev_img from '../assets/images/mobiledev.svg'
 import mobile_img from '../assets/images/mobile.svg'
 import telegram_img from '../assets/images/icons/telegram.png'
+import Link from 'next/link'
+import Image from 'next/image'
 
-export default function Home() {
+
+export default function Landing() {
 
     return <>
+
 
     <section id="hero" class="s-hero target-section">
         <div class="s-hero__bg">
